@@ -1,0 +1,34 @@
+
+.now,.nextday,.next1day
+{
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+.degrees{
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  margin-left: 2rem;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+}
+span{
+  margin: 0;
+  font-size: 35px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+h3{
+  font-size: 40px;
+}
+img{
+  width:80px;
+  height: 80px;
+}
